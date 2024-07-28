@@ -21,9 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 analytics-id:
 # Social settings
-github: burden/jekyll-cards-boilerplate
+github: affiliates-hub/affiliates-hub-blog
 maintainers:
-  - burden
+  - affiliates-hub
 
 # Build settings
 plugins:
